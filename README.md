@@ -1,4 +1,4 @@
 # learning-github
 GitHub learning projects
 <br>
-Author- Aditya Kumar
+Author- Aditya Kumar Singh
